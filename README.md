@@ -39,3 +39,4 @@ A column chart highlighted the differences in average CO2 emissions between the 
 
 All visualizations were combined into a single, cohesive dashboard for a comprehensive and professional presentation.
 
+![Dashboards](Dashboards.pdf)
