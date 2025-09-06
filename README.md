@@ -38,3 +38,4 @@ A pie chart was used to illustrate the proportional contribution of each fuel ty
 A column chart highlighted the differences in average CO2 emissions between the various engine performance tiers.
 
 All visualizations were combined into a single, cohesive dashboard for a comprehensive and professional presentation.
+
