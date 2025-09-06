@@ -1,16 +1,16 @@
 ## CO2 Emissions Analysis in Canada (2014)
 Project Introduction
 This project is a data analysis and visualization endeavor focused on vehicle-specific CO2 emissions data from Canada in 2014. Using a comprehensive dataset, I performed a detailed analysis to uncover key trends and relationships between vehicle characteristics and their environmental impact. The final deliverable is a set of interactive dashboards created in Microsoft Excel that provide a clear, insightful overview of the data.
----
+
 ## Problem Statement
 With increasing global concern over climate change, understanding the sources of carbon emissions is more critical than ever. The primary objective of this project was to analyze a dataset of new light-duty vehicles sold in Canada to answer the following questions:
----
+
 # How do average CO2 emissions vary across different vehicle classes?
 
 # What is the distribution of CO2 emissions based on fuel type?
 
 # How do engine performance tiers (e.g., high-performance, mid-performance, entry-level) correlate with average CO2 emissions?
----
+
 # Tools
 Microsoft Excel: The primary tool used for data cleaning, analysis, and visualization.
 
